@@ -16,7 +16,7 @@ class LogisticRegression(object):
         # evaluate local gradient
         pass
 
-    def compute_hession(self):
+    def compute_hessian(self):
         # needed for newtons
         # and backtracking line search??
         pass
