@@ -1,5 +1,5 @@
 # Deep Learning From Scratch
-This repository will contain implementations of basic neural network / deep learning algorithms, from scratch using scientific python.
+This repository will contain implementations of basic neural network & deep learning algorithms, from scratch using scientific python.
 
 ### Algorithms 
 1. Logistic Regression
